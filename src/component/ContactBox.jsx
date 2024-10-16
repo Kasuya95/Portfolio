@@ -11,7 +11,7 @@ const ContactBox = () => {
         <div className="col">
           <div className="contact-info">
             <h2>Find Me <i className="uil uil-corner-right-down"></i></h2>
-            <p><i className="uil uil-envelope"></i>Email: lnwgmail.com</p>
+            <p><i className="uil uil-envelope"></i>Email: thunva2004@gmail.com</p>
             <p><i className="uil uil-phone"></i>Tel: +66 83 154 2243</p>
           </div>
         </div>

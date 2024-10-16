@@ -13,12 +13,7 @@ const FeaturedBox = () => {
         </div>
         <div className="featured-text-info">
           <p>
-            สวัสดีครับ/ค่ะ! เป็นฟรีแลนซ์ที่เชี่ยวชาญด้าน การเขียนโปรแกรม
-            มีประสบการณ์ในการทำงานกับลูกค้าหลากหลายประเภท ทั้งในและนอกประเทศ
-            ผม/ฉันเชื่อในคุณภาพและการสร้างสรรค์ที่ตอบโจทย์ความต้องการของลูกค้า
-            โดยมุ่งมั่นที่จะให้บริการที่ดีที่สุดและสร้างความสัมพันธ์ที่ดีกับทุกคนที่ได้ร่วมงานกัน
-            ถ้าคุณกำลังมองหาคนที่สามารถช่วยพัฒนางานของคุณหรือมีโปรเจ็กต์ที่น่าสนใจ
-            อย่าลังเลที่จะติดต่อมานะครับ/ค่ะ ยินดีมากที่จะได้ร่วมงานกับคุณ!
+            Hello! I’m a freelance programmer with expertise in various programming languages. I have experience working with clients from different industries, both locally and internationally. I believe in delivering quality work that meets clients' needs, with a focus on creativity and innovation. My goal is to provide the best service possible and build strong relationships with everyone I work with. If you're looking for someone to help develop your project or have an interesting project in mind, don’t hesitate to reach out! I’d be thrilled to collaborate with you!
           </p>
         </div>
         <div className="featured-text-btn">
@@ -46,7 +41,7 @@ const FeaturedBox = () => {
       </div>
       <div className="featured-image">
         <div className="image">
-          <img src={avatar} alt="avatar"/>
+          <img src={avatar} alt="avatar" />
         </div>
       </div>
       <div className="scroll-icon-box">

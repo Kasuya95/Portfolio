@@ -83,7 +83,7 @@ srRight.reveal(".skills-box", { delay: 100});
 srRight.reveal(".form-control", { delay: 100});
 /** Type effect */
 const typingEffect = new Typed(".typedText", {
-  strings: [" Freelance", "ภาษาไทย"],
+  strings: [" Freelance", "Devsecops", "Font-End", "Back-End"],
   loop: true,
   typeSpeed: 100,
   backSpeed: 80,
