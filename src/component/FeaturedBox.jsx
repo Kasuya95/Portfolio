@@ -1,9 +1,9 @@
 import React from "react";
-import avatar from "../assets/images/avatar.png";
+import avatar from "../assets/images/Profile.jpg";
 
 const FeaturedBox = () => {
   return (
-    <section className="featured-Box" id="Home">
+    <section className="featured-box" id="home">
       <div className="featured-text">
         <div className="featured-text-card">
           <span>Thunva Artkonghan</span>
@@ -38,7 +38,7 @@ const FeaturedBox = () => {
             </a>
           </div>
           <div className="icon">
-            <a href="https://www.instagram.com/ft_0504">
+            <a href="https://github.com/Kasuya95">
               <i className="uil uil-github"></i>
             </a>
           </div>
@@ -46,7 +46,7 @@ const FeaturedBox = () => {
       </div>
       <div className="featured-image">
         <div className="image">
-          <img src={avatar} alt={avatar}></img>
+          <img src={avatar} alt="avatar"/>
         </div>
       </div>
       <div className="scroll-icon-box">
